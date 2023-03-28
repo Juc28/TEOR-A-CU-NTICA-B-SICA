@@ -1,5 +1,6 @@
 # TEORÍA CUÁNTICA BÁSICA, OBSERVABLES Y MEDIDAS
 Este es un repositorio que tiene algunas funciones diferentes para realizar algunas operaciones para diferentes sistemas.
+- La clase que contiene estos es: quantumTheory.py 
 # SIMULE EL PRIMER SISTEMA CUÁNTICO DESCRITO EN LA SECCIÓN 4.1.
 1. El sistema debe calcular la probabilidad de encontrarlo en una posición en particular.
 
