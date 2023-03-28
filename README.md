@@ -19,6 +19,7 @@ Este es un repositorio que tiene algunas funciones diferentes para realizar algu
 Para probar lo anterios en la clase quantumTheory.py al final se encuentras los ejemplos se borra los  """
 
 # EJERCICIOS  4.5.2 y 4.5.3
+![](https://github.com/Juc28/TEORIA-CUANTICA-BASICA/blob/master/imagenes/ejercicio.jpeg)
 ### AUTOR
 
 > Erika Juliana Castro Romero [Juc28](https://github.com/Juc28)
