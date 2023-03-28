@@ -14,6 +14,9 @@ Este es un repositorio que tiene algunas funciones diferentes para realizar algu
 
 4. Se considera la dinámica del sistema. Ahora con una serie de matrices Un el sistema calcula el estado final a partir de un estado inicial.
 
+
+Para probar lo anterios en la clase quantumTheory.py al final se encuentras los ejemplos se borra los  """
+
 # EJERCICIOS  4.5.2 y 4.5.3
 ### AUTOR
 
